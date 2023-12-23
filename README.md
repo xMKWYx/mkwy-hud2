@@ -1,4 +1,4 @@
-# mkwy-hud2
+# mkwy-radar
 Skrypt, który wyłącza minimapę podczas przebywania poza pojazdem
 
 **[PL] Czy chciałbyś stworzyć swój własny serwer Role Play?
@@ -30,4 +30,4 @@ server!**
 > - And a lot more!
 
 **Ping:** ||@everyone||
-**InvLnk:** https://discord.gg/FHwacVQ64Z
+**InvLnk:** https://discord.gg/WcZ5rVfERJ
